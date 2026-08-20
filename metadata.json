@@ -1,0 +1,6 @@
+{
+  "name": "Pix2Pix cGAN Studio",
+  "description": "Interactive image-to-image translation using Conditional Generative Adversarial Networks (cGAN / pix2pix) with U-Net generator, PatchGAN discriminator, live drawing canvas, and architecture explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
